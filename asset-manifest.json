@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week-7-resume/static/css/main.cbc512fe.css",
+    "main.js": "/week-7-resume/static/js/main.20985c8b.js",
+    "static/js/453.9801cc18.chunk.js": "/week-7-resume/static/js/453.9801cc18.chunk.js",
+    "index.html": "/week-7-resume/index.html",
+    "main.cbc512fe.css.map": "/week-7-resume/static/css/main.cbc512fe.css.map",
+    "main.20985c8b.js.map": "/week-7-resume/static/js/main.20985c8b.js.map",
+    "453.9801cc18.chunk.js.map": "/week-7-resume/static/js/453.9801cc18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc512fe.css",
+    "static/js/main.20985c8b.js"
+  ]
+}
