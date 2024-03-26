@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/week-7-resume/static/css/main.cbc512fe.css",
-    "main.js": "/week-7-resume/static/js/main.20985c8b.js",
-    "static/js/453.9801cc18.chunk.js": "/week-7-resume/static/js/453.9801cc18.chunk.js",
-    "index.html": "/week-7-resume/index.html",
-    "main.cbc512fe.css.map": "/week-7-resume/static/css/main.cbc512fe.css.map",
-    "main.20985c8b.js.map": "/week-7-resume/static/js/main.20985c8b.js.map",
-    "453.9801cc18.chunk.js.map": "/week-7-resume/static/js/453.9801cc18.chunk.js.map"
+    "main.css": "/207cs/static/css/main.f8a5ba8f.css",
+    "main.js": "/207cs/static/js/main.9104c035.js",
+    "static/js/453.8279d01d.chunk.js": "/207cs/static/js/453.8279d01d.chunk.js",
+    "index.html": "/207cs/index.html",
+    "main.f8a5ba8f.css.map": "/207cs/static/css/main.f8a5ba8f.css.map",
+    "main.9104c035.js.map": "/207cs/static/js/main.9104c035.js.map",
+    "453.8279d01d.chunk.js.map": "/207cs/static/js/453.8279d01d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc512fe.css",
-    "static/js/main.20985c8b.js"
+    "static/css/main.f8a5ba8f.css",
+    "static/js/main.9104c035.js"
   ]
 }
